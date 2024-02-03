@@ -1,3 +1,3 @@
-from func import summ
+from func import minus
 
-print(summ(6, 4))
+print(minus(6, 4))
